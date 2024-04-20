@@ -1,5 +1,11 @@
 # Previsao-de-Vendas
-Prevendo venda de um mês que vai chegar através de Python
+# Problema: Previsão de Vendas Futuras
+|
+|
+|
+|
+|
+# Descrição: Utilizando os dados históricos de vendas de varejo, desenvolva um modelo de previsão de vendas para prever as vendas futuras da empresa. Isso pode ajudar a empresa a planejar seus estoques, otimizar sua produção e gerenciar melhor suas operações.
 
 ## Através de uma planilha retirada da internet, sobre as vendas de um mercado de varejo nos anos de 2010 e 2011, gostaria de prever as vendas de janeiro de 2012.
 ![image](https://github.com/brunogboy/Previsao-de-Vendas/assets/165103663/c65cc6f2-2049-478a-80ca-fd4bec01661e)
